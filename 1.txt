@@ -1,0 +1,16 @@
+git remote add origin https://github.com/cxin122333/linux__project__I.MX6U-ALPHA.git
+git branch -M main
+git push -u origin main
+
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed
+
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to
